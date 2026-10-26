@@ -1,0 +1,12 @@
+request_type,raw,repeated_id,test_record,out_of_scope_type,closed_duplicate,closed_transferred,closed_administrative,closed_not_actionable,bad_dates,missing_location,outside_san_francisco,kept,pct_kept
+(out-of-scope types),1269670,0,322,1269348,0,0,0,0,0,0,0,0,0.0
+Abandoned Vehicle,95001,0,13,0,9364,327,61,2267,0,9559,4,73406,77.3
+Encampments,233722,0,13,0,20432,12840,12188,15528,34,6316,0,166371,71.2
+Graffiti,494689,0,20,0,71458,42297,85780,4483,290,9033,1,281327,56.9
+Illegal Postings,72942,0,0,0,20225,372,3836,705,39,197,0,47568,65.2
+Sewer,68250,0,15,0,7671,3844,232,2386,83,8489,1,45529,66.7
+Sidewalk and Curb,62657,0,4,0,18322,1276,961,970,120,1811,1,39192,62.6
+Street Defects,40298,0,12,0,5499,2358,648,2453,81,2624,0,26623,66.1
+Street and Sidewalk Cleaning,1933456,0,117,0,114483,19349,11347,19207,967,74123,2,1693861,87.6
+Streetlights,23047,0,9,0,2133,842,190,1943,2,5505,0,12423,53.9
+Tree Maintenance,80947,0,21,0,10710,1626,3091,8835,66,7970,0,48628,60.1

@@ -1,0 +1,12 @@
+rule,description,removed,remaining,pct_of_raw_removed
+raw_rows,Requests in the raw download,0,4374679,0.0
+repeated_id,The same service_request_id appears again (first copy kept),0,4374679,0.0
+test_record,Test records (source = 'Test'),546,4374133,0.01
+out_of_scope_type,Not one of the in-scope request types (category_map.csv),1269348,3104785,29.02
+closed_duplicate,Closure note says: duplicate (status_rules.csv),280297,2824488,6.41
+closed_transferred,Closure note says: transferred (status_rules.csv),85131,2739357,1.95
+closed_administrative,Closure note says: administrative (status_rules.csv),118334,2621023,2.7
+closed_not_actionable,Closure note says: not actionable (status_rules.csv),58777,2562246,1.34
+bad_dates,"Closed before it was opened, after the download, or 'Closed' with no date",1682,2560564,0.04
+missing_location,"No coordinates, or the (0, 0) placeholder",125627,2434937,2.87
+outside_san_francisco,Coordinates outside the San Francisco bounding box,9,2434928,0.0

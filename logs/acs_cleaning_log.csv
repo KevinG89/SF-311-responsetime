@@ -1,0 +1,12 @@
+check,count
+tracts_in_file,9129
+tracts_in_county_06075,244
+pop_annotation_codes_to_nan,0
+pop_moe_annotation_codes_to_nan,0
+income_annotation_codes_to_nan,10
+income_moe_annotation_codes_to_nan,20
+zero_population_tracts,3
+income_missing,10
+income_topcoded_250001,10
+income_cv_above_0.30,29
+income_reliable_tracts,205

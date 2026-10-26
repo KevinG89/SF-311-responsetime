@@ -1,0 +1,6 @@
+channel,raw,repeated_id,test_record,out_of_scope_type,closed_duplicate,closed_transferred,closed_administrative,closed_not_actionable,bad_dates,missing_location,outside_san_francisco,kept,pct_kept
+Integrated Agency,54421,0,0,13803,786,222,2759,759,113,16383,0,19596,36.0
+Mobile,2821244,0,0,613911,199533,61834,88495,36116,1129,3088,0,1817138,64.4
+Other,23969,0,546,10881,1055,297,359,191,20,1465,0,9155,38.2
+Phone,865898,0,0,397460,32208,10318,12395,10551,258,102609,2,300097,34.7
+Web,609147,0,0,233293,46715,12460,14326,11160,162,2082,7,288942,47.4

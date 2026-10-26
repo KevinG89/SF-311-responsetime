@@ -1,0 +1,172 @@
+service_name,service_subtype,request_type,in_scope,n_2020_2025,notes
+Abandoned Vehicle,*,Abandoned Vehicle,True,62042,category retired in Jun 2024; see Parking Enforcement / abandoned_vehicle
+Parking Enforcement,abandoned_vehicle,Abandoned Vehicle,True,32507,abandoned vehicles filed under Parking Enforcement from Jun 2024
+Parking Enforcement,abandoned_vehicle_callback,Abandoned Vehicle,True,452,abandoned vehicles filed under Parking Enforcement from Jun 2024
+Encampment,*,Encampments,True,74770,new name from Jun 2024 (was 'Encampments')
+Encampments,*,Encampments,True,158952,renamed 'Encampment' in Jun 2024
+Graffiti,*,Graffiti,True,337617,split into 'Graffiti Public' and 'Graffiti Private' in Jun 2024
+Graffiti Private,*,Graffiti,True,35497,new name from Jun 2024 (was 'Graffiti')
+Graffiti Public,*,Graffiti,True,121575,new name from Jun 2024 (was 'Graffiti')
+Illegal Postings,*,Illegal Postings,True,72942,
+Catch Basin Maintenance,*,Sewer,True,2161,merged into 'Sewer' (subtype catch_basin) in Jun 2024
+Sewer,*,Sewer,True,18406,new name from Jun 2024 (was 'Sewer Issues'); now includes catch basins
+Sewer Issues,*,Sewer,True,47683,renamed 'Sewer' in Jun 2024
+Sidewalk and Curb,*,Sidewalk and Curb,True,23450,see subtype rows; from Jun 2024 shares subtypes with 'Street Defect'
+Sidewalk and Curb,sidewalk_defect,Sidewalk and Curb,True,9526,typed by defect subtype
+Sidewalk and Curb,curb_or_curb_ramp_defect,Sidewalk and Curb,True,3514,typed by defect subtype
+Sidewalk and Curb,other,Sidewalk and Curb,True,2411,typed by defect subtype
+Sidewalk and Curb,missing_side_sewer_vent_cover,Sidewalk and Curb,True,2179,typed by defect subtype
+Sidewalk and Curb,damaged_side_sewer_vent_cover,Sidewalk and Curb,True,835,typed by defect subtype
+Sidewalk and Curb,public_stairway_defect,Sidewalk and Curb,True,208,typed by defect subtype
+Sidewalk or Curb,*,Sidewalk and Curb,True,36495,see subtype rows; renamed 'Sidewalk and Curb' in Jun 2024
+Sidewalk or Curb,Sidewalk_Defect,Sidewalk and Curb,True,24400,typed by defect subtype
+Sidewalk or Curb,Curb_or_Curb_Ramp_Defect,Sidewalk and Curb,True,5588,typed by defect subtype
+Sidewalk or Curb,Missing_Side_Sewer_Vent_Cover,Sidewalk and Curb,True,5382,typed by defect subtype
+Sidewalk or Curb,Damaged_Side_Sewer_Vent_Cover,Sidewalk and Curb,True,810,typed by defect subtype
+Sidewalk or Curb,Public_Stairway_Defect,Sidewalk and Curb,True,292,typed by defect subtype
+Sidewalk or Curb,Sidewalk Curb Defects,Sidewalk and Curb,True,21,typed by defect subtype
+Sidewalk or Curb,Two holes in the ground.,Sidewalk and Curb,True,1,typed by defect subtype
+Sidewalk or Curb,Cracked utility cover,Sidewalk and Curb,True,1,typed by defect subtype
+Street Defect,sidewalk_defect,Sidewalk and Curb,True,5096,typed by defect subtype
+Street Defect,curb_or_curb_ramp_defect,Sidewalk and Curb,True,1401,typed by defect subtype
+Street Defect,missing_side_sewer_vent_cover,Sidewalk and Curb,True,834,typed by defect subtype
+Street Defect,damaged_side_sewer_vent_cover,Sidewalk and Curb,True,158,typed by defect subtype
+Sidewalk and Curb,pavement_defect,Street Defects,True,4100,typed by defect subtype
+Sidewalk and Curb,manhole_cover_off,Street Defects,True,352,typed by defect subtype
+Sidewalk and Curb,utility_excavation,Street Defects,True,220,typed by defect subtype
+Sidewalk and Curb,construction_plate_shifted,Street Defects,True,105,typed by defect subtype
+Street Defect,*,Street Defects,True,12668,see subtype rows; from Jun 2024 shares subtypes with 'Sidewalk and Curb'
+Street Defect,pavement_defect,Street Defects,True,3504,typed by defect subtype
+Street Defect,other,Street Defects,True,979,typed by defect subtype
+Street Defect,manhole_cover_off,Street Defects,True,377,typed by defect subtype
+Street Defect,construction_plate_shifted,Street Defects,True,187,typed by defect subtype
+Street Defect,public_stairway_defect,Street Defects,True,66,typed by defect subtype
+Street Defect,utility_excavation,Street Defects,True,64,typed by defect subtype
+Street Defects,*,Street Defects,True,30342,see subtype rows; renamed 'Street Defect' in Jun 2024
+Street Defects,Pavement_Defect,Street Defects,True,25806,typed by defect subtype
+Street Defects,other,Street Defects,True,1685,typed by defect subtype
+Street Defects,Manhole_Cover_Off,Street Defects,True,1590,typed by defect subtype
+Street Defects,Construction_Plate_Shifted,Street Defects,True,743,typed by defect subtype
+Street Defects,Utility_Excavation,Street Defects,True,518,typed by defect subtype
+Street and Sidewalk Cleaning,*,Street and Sidewalk Cleaning,True,1933456,detailed subtypes moved to service_details in Jun 2024
+Streetlights,*,Streetlights,True,23047,
+Tree Maintenance,*,Tree Maintenance,True,80947,
+311 Complaints,*,311 Complaints,False,180,
+311 External Request,*,311 External Request,False,3806,
+Aggressive/Threatening,*,Aggressive/Threatening,False,1,
+Autonomous Vehicle Complaints,*,Autonomous Vehicle Complaints,False,438,
+Behavioral Third Party,*,Behavioral Third Party,False,1,
+Blocked Street and Sidewalk,*,Blocked Street or Sidewalk,False,20832,new name from Jun 2024
+Blocked Street or SideWalk,*,Blocked Street or Sidewalk,False,14201,renamed in Jun 2024
+Child Request,*,Child Request,False,8738,
+Citations Payment Status,*,Citations Payment Status,False,119,
+Citations Protest Status,*,Citations Protest Status,False,108,
+Citations Questions Comments,*,Citations Questions Comments,False,252,
+DPW Volunteer Programs,*,DPW Volunteer Programs,False,515,
+Damage Property,*,Damaged Property,False,11421,new name from Jun 2024
+Damaged Property,*,Damaged Property,False,30299,renamed 'Damage Property' in Jun 2024
+Escalation Callback,*,Escalation Callback,False,3,
+Followup,*,Followup,False,2,
+General Request,*,General Request,False,62711,"information / general requests, no field visit"
+General Request -,*,General Request,False,101,"information / general requests, no field visit"
+General Request - 311CUSTOMERSERVICECENTER,*,General Request,False,3362,"information / general requests, no field visit"
+General Request - ADULT PROBATION,*,General Request,False,3,"information / general requests, no field visit"
+General Request - AGING ADULT SERVICES,*,General Request,False,40,"information / general requests, no field visit"
+General Request - AIRPORT SFO,*,General Request,False,19,"information / general requests, no field visit"
+General Request - ANIMAL CARE CONTROL,*,General Request,False,2869,"information / general requests, no field visit"
+General Request - ART COMMISSION,*,General Request,False,86,"information / general requests, no field visit"
+General Request - ASSESSOR RECORDER,*,General Request,False,75,"information / general requests, no field visit"
+General Request - BOARD OF APPEALS,*,General Request,False,4,"information / general requests, no field visit"
+General Request - BOARD OF SUPERVISORS,*,General Request,False,493,"information / general requests, no field visit"
+General Request - BUILDING INSPECTION,*,General Request,False,7468,"information / general requests, no field visit"
+General Request - CENTRAL SHOPS,*,General Request,False,45,"information / general requests, no field visit"
+General Request - CHILDREN YOUTH FAMILIES,*,General Request,False,27,"information / general requests, no field visit"
+General Request - CHILDSUPPORTSERVICES,*,General Request,False,14,"information / general requests, no field visit"
+General Request - CITY ATTORNEY,*,General Request,False,104,"information / general requests, no field visit"
+General Request - CITY HALL,*,General Request,False,158,"information / general requests, no field visit"
+General Request - CITYADMINISTRATOR GSA,*,General Request,False,112,"information / general requests, no field visit"
+General Request - CONTRACT ADMINISTRATION,*,General Request,False,24,"information / general requests, no field visit"
+General Request - CONTROLLER,*,General Request,False,99,"information / general requests, no field visit"
+General Request - COUNTY CLERK,*,General Request,False,361,"information / general requests, no field visit"
+General Request - DISTRICT ATTORNEY,*,General Request,False,178,"information / general requests, no field visit"
+General Request - DPH,*,General Request,False,14702,"information / general requests, no field visit"
+General Request - DTIS,*,General Request,False,240,"information / general requests, no field visit"
+General Request - ECONOMICS AND WORKFORCE DEVELOPMENT,*,General Request,False,145,"information / general requests, no field visit"
+General Request - ELECTIONS,*,General Request,False,93,"information / general requests, no field visit"
+General Request - ENTERTAINMENT COMMISSION,*,General Request,False,146,"information / general requests, no field visit"
+General Request - ENVIRONMENT,*,General Request,False,60,"information / general requests, no field visit"
+General Request - ETHICS COMMISSION,*,General Request,False,20,"information / general requests, no field visit"
+General Request - FILM COMMISSION,*,General Request,False,16,"information / general requests, no field visit"
+General Request - FIRE DEPARTMENT,*,General Request,False,490,"information / general requests, no field visit"
+General Request - HSH,*,General Request,False,1406,"information / general requests, no field visit"
+General Request - HUMAN RESOURCES,*,General Request,False,102,"information / general requests, no field visit"
+General Request - HUMAN RIGHTS COMMISSION,*,General Request,False,68,"information / general requests, no field visit"
+General Request - HUMAN SERVICES AGENCY,*,General Request,False,328,"information / general requests, no field visit"
+General Request - JUVENILE PROBATION,*,General Request,False,3,"information / general requests, no field visit"
+General Request - LABOR STANDARDS ENFORCEMENT,*,General Request,False,97,"information / general requests, no field visit"
+General Request - LANGUAGE SERVICES,*,General Request,False,15,"information / general requests, no field visit"
+General Request - LIBRARY PUBLIC,*,General Request,False,52,"information / general requests, no field visit"
+General Request - MEDICAL EXAMINER,*,General Request,False,26,"information / general requests, no field visit"
+General Request - MOCD,*,General Request,False,163,"information / general requests, no field visit"
+General Request - MOCJ,*,General Request,False,1,"information / general requests, no field visit"
+General Request - MOD,*,General Request,False,499,"information / general requests, no field visit"
+General Request - MOH,*,General Request,False,205,"information / general requests, no field visit"
+General Request - MONS,*,General Request,False,935,"information / general requests, no field visit"
+General Request - MTA,*,General Request,False,54573,"information / general requests, no field visit"
+General Request - OCC,*,General Request,False,155,"information / general requests, no field visit"
+General Request - PLANNING,*,General Request,False,1652,"information / general requests, no field visit"
+General Request - PORT AUTHORITY,*,General Request,False,307,"information / general requests, no field visit"
+General Request - PUBLIC DEFENDER,*,General Request,False,7,"information / general requests, no field visit"
+General Request - PUBLIC WORKS,*,General Request,False,105723,"information / general requests, no field visit"
+General Request - PUC,*,General Request,False,7469,"information / general requests, no field visit"
+General Request - REAL ESTATE DEPARTMENT,*,General Request,False,31,"information / general requests, no field visit"
+General Request - RENT BOARD,*,General Request,False,5119,"information / general requests, no field visit"
+General Request - RISK MANAGEMENT,*,General Request,False,1,"information / general requests, no field visit"
+General Request - RPD,*,General Request,False,690,"information / general requests, no field visit"
+General Request - SFPD,*,General Request,False,2035,"information / general requests, no field visit"
+General Request - SHERIFF,*,General Request,False,37,"information / general requests, no field visit"
+General Request - SHORT TERM RENTALS,*,General Request,False,128,"information / general requests, no field visit"
+General Request - SMALL BUSINESS,*,General Request,False,110,"information / general requests, no field visit"
+General Request - STATUS OF WOMEN,*,General Request,False,8,"information / general requests, no field visit"
+General Request - TIDA,*,General Request,False,19,"information / general requests, no field visit"
+General Request - TT COLLECTOR,*,General Request,False,28,"information / general requests, no field visit"
+General Request - WAR MEMORIAL,*,General Request,False,2,"information / general requests, no field visit"
+Homeless Concerns,*,Homeless Concerns,False,365,
+Information Provided,*,Information Provided,False,81,
+Litter Receptacle Maintenance,*,Litter Receptacles,False,15040,new name from Jun 2024
+Litter Receptacles,*,Litter Receptacles,False,38960,renamed 'Litter Receptacle Maintenance' in Jun 2024
+MUNI Feedback,*,Muni Feedback,False,4015,used until Mar 2020
+Muni Employee Feedback,*,Muni Feedback,False,31919,
+Muni Service Feedback,*,Muni Feedback,False,32534,
+Noise,*,Noise,False,18133,new name from Jun 2024
+Noise Report,*,Noise,False,37785,renamed 'Noise' in Jun 2024
+OOC Feedback,*,OOC Feedback,False,95,
+Outbound Call,*,Outbound Call,False,1,
+Outbound Email,*,Outbound Email,False,3,
+Parking Enforcement,*,Parking Enforcement,False,602068,
+RPP Application Status,*,RPP Application Status,False,120,
+RPP Questions Comments,*,RPP Questions Comments,False,72,
+RPD General,*,Rec and Park,False,15128,new name from Jun 2024
+Rec and Park Requests,*,Rec and Park,False,40539,renamed 'RPD General' in Jun 2024
+Records Request,*,Records Request,False,1,
+Residential Building,*,Residential Building,False,6364,new name from Jun 2024
+Residential Building Request,*,Residential Building,False,11712,renamed in Jun 2024
+SFHA Requests,*,SFHA Requests,False,3752,
+Service Request Copy,*,Service Request Copy,False,3,
+Shared Spaces Request,*,Shared Spaces Request,False,4192,
+Shared Spaces Violation,*,Shared Spaces Violation,False,6368,
+MTA Parking Traffic Signs High Priority,*,Sign Repair,False,5817,new name from Jun 2024 (was 'Sign Repair')
+MTA Parking Traffic Signs Normal Priority,*,Sign Repair,False,11256,new name from Jun 2024 (was 'Sign Repair')
+Sign Repair,*,Sign Repair,False,45024,replaced by 'MTA Parking Traffic Signs ...' in Jun 2024
+TTX General,*,TTX General,False,1,
+Taxi Complaint,*,Taxi Complaint,False,86,
+Taxi Compliment,*,Taxi Compliment,False,2,
+Temporary Sign Applications,*,Temporary Sign Applications,False,547,
+Temporary Sign Request,*,Temporary Sign Request,False,2779,
+Tent Count,*,Tent Count,False,1,
+Volunteer Programs,*,Volunteer Programs,False,111,
+Waitlist Request,*,Waitlist Request,False,1,
+Waste of Water,*,Waste of Water,False,230,
+Water Quality,*,Water Quality,False,345,
+Well-Being Check,*,Well-Being Check,False,2,
+v15,*,v15,False,2,

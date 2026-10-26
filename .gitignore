@@ -1,0 +1,21 @@
+# data is too big for GitHub; the scripts download and rebuild it
+data/raw/*
+data/interim/*
+data/processed/*
+!data/raw/.gitkeep
+!data/interim/.gitkeep
+!data/processed/.gitkeep
+
+# API keys
+.env
+
+# Python and Jupyter
+__pycache__/
+*.egg-info/
+.venv/
+.ipynb_checkpoints/
+
+# Mac / editors
+.DS_Store
+.vscode/
+.idea/

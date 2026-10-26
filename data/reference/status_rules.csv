@@ -1,0 +1,12 @@
+reason,pattern,unless,example,why
+duplicate,duplicat,not a duplicat,case is a duplicate - this issue has already been reported through an earlier request.,"Closed because another request covers the same problem; the time to close is not a service time"
+transferred,\btransferr?ed\b|\btransfer\b,,transferred - your request falls under the responsibility of the united states postal service (usps),"Handed to another agency or queue; the work (if any) happens outside this case"
+transferred,\breferred to\b,,case transferred - area was cleaned around the encampment; referred to the police dept,"Same as above"
+administrative,administrativ,,administrative closure - closed for administrative purposes.,"Closed for administrative reasons, not because the problem was handled"
+administrative,per process,,case resolved - per process - cases are closed 10 days after assignment.,"Closed automatically after a fixed number of days"
+administrative,closed: no response|^no response,,case resolved - closed: no response from dpw bses in 1 month,"Closed automatically when the assigned team did not respond"
+administrative,suspended public works enforcement|will be dismissed|not considered an essential function,,"case resolved - as part of the unprecedented covid pandemic, the board of supervisors suspended public works enforcement of the san francisco graffiti ordinance","COVID-era policy closures of private-property graffiti requests"
+not_actionable,case is invalid|^invalid\b,,case is invalid - requests related to the concern or well-being of individuals not in an encampment are not handled by 311.,"Request could not be acted on; closed without a field visit"
+not_actionable,insufficient info|incomplete info|required information missing,,insufficient information provided,"Same as above"
+not_actionable,cancel,,cancelled - planned maintenance,"Same as above"
+not_actionable,^not accepted|not in scope,,case resolved - not in scope,"Same as above"
