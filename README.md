@@ -37,7 +37,7 @@ than requests in higher-income tracts? And is the gap still there when we compar
 
 - [x] Download the data: `01_download_311.py`, `02_download_nhgis.py` (S)
 - [x] Clean the data: `03_clean_data.py` (S, J, R)
-- [ ] Spatial join, requests → tracts: `04_spatial_join.py` (S, J, R)
+- [x] Spatial join, requests → tracts: `04_spatial_join.py` (S, J, R)
 - [ ] Join income and make income quartiles: `05_attribute_join.py` (S, J, R)
 - [ ] Analysis: `06_analyze.py` (S, J, R)
 - [ ] Website: `docs/` (S, R)
